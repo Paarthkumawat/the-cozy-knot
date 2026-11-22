@@ -4,7 +4,7 @@
   Also add the Instagram profile URL.
 */
 const BUSINESS_WHATSAPP = "919413763999";
-const INSTAGRAM_URL = "https://www.instagram.com/";
+const INSTAGRAM_URL = "https://www.instagram.com/jyoti_artzillacrocheter/";
 let cart = [];
 const $ = (id) => document.getElementById(id);
 const money = (n) => "₹" + Number(n).toLocaleString("en-IN");
