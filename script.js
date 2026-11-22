@@ -3,7 +3,7 @@
   Use country code + number, digits only. India example: 91XXXXXXXXXX
   Also add the Instagram profile URL.
 */
-const BUSINESS_WHATSAPP = "91XXXXXXXXXX";
+const BUSINESS_WHATSAPP = "919413763999";
 const INSTAGRAM_URL = "https://www.instagram.com/";
 let cart = [];
 const $ = (id) => document.getElementById(id);
