@@ -1,0 +1,11 @@
+</> Plain text
+the_cozy_knot_website
+│
+├── index.html
+├── style.css
+├── script.js
+├── products.js
+├── README.txt
+│
+└── assets
+    └── keep.txt
